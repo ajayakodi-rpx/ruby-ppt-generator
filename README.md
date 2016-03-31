@@ -18,4 +18,4 @@ As part of our rails application, whenever there is a request made to download t
 * A manual job is neatly automated.
 
 ## License
-The code found in this repository is released under [MIT License](http://www.opensource.org/licenses/MIT).
+The code found in this repository is released under [MIT License](https://github.com/antonyr/ruby-ppt-generator/blob/master/LICENSE).
